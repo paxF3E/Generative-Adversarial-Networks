@@ -1,5 +1,7 @@
-# imGANerator
-Domain transformation using Generative Adversarial Networks to generate images given a text description
+## imGANerator
+- Domain transformation using Generative Adversarial Networks to generate images given a text description<br>
+- To conduct a thorough study of the codebase for the paper <https://arxiv.org/pdf/1711.10485.pdf> for Attentional Generative Adversarial Networks<br>
+- AttnGAN to generate images from `caption` inputs, encoded and inferenced over fine-grained classes; trained on MS-COCO dataset of annotated images to learn things, stuff, panoptics 
 
 ## Citations
 ```
